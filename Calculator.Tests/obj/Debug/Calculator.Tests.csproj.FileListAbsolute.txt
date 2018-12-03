@@ -1,0 +1,17 @@
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.csprojAssemblyReference.cache
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\bin\Debug\Calculator.Tests.dll
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\bin\Debug\Calculator.Tests.pdb
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\bin\Debug\Calculator.exe
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\bin\Debug\Calculator.pdb
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\bin\Debug\Calculator.exe.config
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.csproj.CopyComplete
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.dll
+C:\Users\Iza\source\repos\Calculator\Calculator.Tests\obj\Debug\Calculator.Tests.pdb

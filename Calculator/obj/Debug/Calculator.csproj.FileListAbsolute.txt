@@ -5,3 +5,10 @@ C:\Users\Iza\source\repos\Calculator\Calculator\obj\Debug\Calculator.csprojAssem
 C:\Users\Iza\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
 C:\Users\Iza\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
 C:\Users\Iza\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\elpi2\OneDrive\Desktop\Calculator\Calculator_unit_tests\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\elpi2\OneDrive\Desktop\Calculator\Calculator_unit_tests\Calculator\bin\Debug\Calculator.exe
+C:\Users\elpi2\OneDrive\Desktop\Calculator\Calculator_unit_tests\Calculator\bin\Debug\Calculator.pdb
+C:\Users\elpi2\OneDrive\Desktop\Calculator\Calculator_unit_tests\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\elpi2\OneDrive\Desktop\Calculator\Calculator_unit_tests\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\elpi2\OneDrive\Desktop\Calculator\Calculator_unit_tests\Calculator\obj\Debug\Calculator.exe
+C:\Users\elpi2\OneDrive\Desktop\Calculator\Calculator_unit_tests\Calculator\obj\Debug\Calculator.pdb
